@@ -1,1 +1,1 @@
-https://github.com/willy-lol/lab-2-25-2026/blob/main/index.html
+https://willy-lol.github.io/lab-2-25-2026/
